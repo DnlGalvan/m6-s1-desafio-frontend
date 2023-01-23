@@ -27,7 +27,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test --verbose --forceExit --transformIgnorePatterns 'node_modules/(?!my-library-dir)/'",
+    "test": "react-scripts test --verbose --forceExit --watchAll --transformIgnorePatterns 'node_modules/(?!my-library-dir)/'",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
