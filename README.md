@@ -34,7 +34,7 @@ Abra seu terminal:
 
 #### `Install`
 
-Instala as dependèncias necessárias para rodar o projeto localmente.
+Instala as depenências necessárias para rodar o projeto localmente.
 
 ```
 yarn install

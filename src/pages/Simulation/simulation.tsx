@@ -146,10 +146,19 @@ const Simulation = () => {
 			{!error && (
 				<ContainerResult>
 					<TitleResult>VOCÊ RECEBERÁ</TitleResult>
-					<ItemResult response={responseData[1]} />
-					<ItemResult response={responseData[15]} />
-					<ItemResult response={responseData[30]} />
-					<ItemResult response={responseData[90]} />
+					<ItemResult response={responseData[1]} days={"Amanhã"} />
+					<ItemResult
+						response={responseData[15]}
+						days={"Em 15 dias"}
+					/>
+					<ItemResult
+						response={responseData[30]}
+						days={"Em 30 dias"}
+					/>
+					<ItemResult
+						response={responseData[90]}
+						days={"Em 90 dias"}
+					/>
 				</ContainerResult>
 			)}
 		</Container>
