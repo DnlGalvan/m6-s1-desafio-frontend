@@ -4,11 +4,11 @@ Esta aplicação tem como objetivo simular uma calculadora de Anteciapção de t
 
 #
 
-### **`Sumário`**
+### `Sumário`
 <a href="#tecs">- Tecnologias Utilizadas</a></br>
 <a href="#utils">- Instruções de Utilização</a></br>
 
-## **`Tecnologias utilizadas no projeto`**
+## `Tecnologias utilizadas no projeto`
 
 <div id="tecs"style='display:flex; gap: 5px;'><br>
    <img align="center" alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -26,13 +26,13 @@ Esta aplicação tem como objetivo simular uma calculadora de Anteciapção de t
 
 <div id="utils">
 
-### **`Instruções de utilização:`**
+### `Instruções de utilização:`
 
 Abra seu terminal:
 
 </br>
 
-#### **`Install`**
+#### `Install`
 
 Instala as dependèncias necessárias para rodar o projeto localmente.
 
@@ -42,7 +42,7 @@ yarn install
 
 </br>
 
-### **`Start`**
+### `Start`
 
 Inicia o servidor localmente para visualizar o projeto no navegador.
 
@@ -52,7 +52,7 @@ yarn start
 
 </br>
 
-### **`Testes`**
+### `Testes`
 
 Inicia os testes de componentes com @testing-library/react.
 
